@@ -241,10 +241,10 @@ Basic steps are:
 
 Here is a short video of how to do that, in case you are not familiar with Bunnyshell.
 
-<div style="position: relative; padding-bottom: 64.90384615384616%; height: 0;">
-	<iframe src="https://www.loom.com/embed/6e6180003a6d4692b17e465f0fb2e7f1" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-	</iframe>
-</div>
+<a href="https://www.loom.com/share/6e6180003a6d4692b17e465f0fb2e7f1">
+    <p>Laravel Step 3: create Bunnyshell environment - Watch Video</p>
+    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6e6180003a6d4692b17e465f0fb2e7f1-with-play.gif">
+  </a>
 
 <br><br>
 
