@@ -1,7 +1,6 @@
-# laravel-kubernetes-dockerfiles
-Docker files to define Kubernetes ready container images of your Laravel application
+# Docker files to define Kubernetes ready container images of your Laravel application with Bunnyshell
 
-# So, you want to deploy your Laravel application in a Cloud Native way? Bunnyshell can do that for you!
+### So, you want to deploy your Laravel application in a Cloud Native way? Bunnyshell can do that for you!
 
 <br><br>
 
@@ -241,10 +240,7 @@ Basic steps are:
 
 Here is a short video of how to do that, in case you are not familiar with Bunnyshell.
 
-<a href="https://www.loom.com/share/6e6180003a6d4692b17e465f0fb2e7f1">
-    <p>Laravel Step 3: create Bunnyshell environment - Watch Video</p>
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6e6180003a6d4692b17e465f0fb2e7f1-with-play.gif">
-  </a>
+https://www.loom.com/share/6e6180003a6d4692b17e465f0fb2e7f1
 
 <br><br>
 
@@ -318,11 +314,7 @@ environmentVariables:
 Here is a short video of how to do that, in case you are not familiar with Bunnyshell.
 
 
-
-<div style="position: relative; padding-bottom: 64.90384615384616%; height: 0;">
-	<iframe src="https://www.loom.com/embed/ea8dcfd2870744debfd7ca079c0b3290" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">	
-	</iframe>
-</div>	
+https://www.loom.com/embed/ea8dcfd2870744debfd7ca079c0b3290
 
 <br><br>
 
